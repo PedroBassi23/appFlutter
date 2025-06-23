@@ -48,7 +48,7 @@ Siga os passos abaixo para rodar o projeto localmente.
 
 
 
-https://github.com/user-attachments/assets/9fca1006-e707-4871-b50f-38f69b929da9
+https://github.com/user-attachments/assets/af50e8a0-885a-44c7-a1f9-a18597d67472
 
 
 
