@@ -46,10 +46,14 @@ Siga os passos abaixo para rodar o projeto localmente.
 
 ## 📱 Vídeo de Demonstração
 
-[COLE AQUI O LINK DO VÍDEO QUANDO ESTIVER PRONTO]
+
+
+https://github.com/user-attachments/assets/9eb41a35-10c4-439c-817e-d119263b29e2
+
+
 
 ## 🌐 Link para a Versão Web
 
 Você pode testar o aplicativo diretamente no seu navegador através deste link:
 
-[COLE AQUI O LINK DA VERSÃO WEB QUANDO ESTIVER PRONTA]
+(http://localhost:52432/)
