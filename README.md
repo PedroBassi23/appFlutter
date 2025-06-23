@@ -1,6 +1,6 @@
 # Meu Catálogo de Filmes 🎬
 
-Um simples aplicativo em Flutter para catalogar seus filmes favoritos. Este projeto foi desenvolvido como parte da avaliação da disciplina [Nome da Disciplina].
+Um simples aplicativo em Flutter para catalogar seus filmes favoritos. Este projeto foi desenvolvido como parte da avaliação da disciplina Desenvolvimento Mobile.
 
 ## ✨ Funcionalidades
 
