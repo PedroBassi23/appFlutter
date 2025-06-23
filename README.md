@@ -47,7 +47,9 @@ Siga os passos abaixo para rodar o projeto localmente.
 ## 📱 Vídeo de Demonstração
 
 
-https://github.com/user-attachments/assets/d98593ed-a9a2-4dcd-867c-4fe99d98ed39
+
+https://github.com/user-attachments/assets/9fca1006-e707-4871-b50f-38f69b929da9
+
 
 
 ## 🌐 Link para a Versão Web
